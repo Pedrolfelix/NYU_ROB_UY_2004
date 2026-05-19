@@ -50,8 +50,8 @@ Rather than hard-coding a tripod gait, the RL agent learned to redistribute weig
 The trained RL policy successfully enabled the Pupper to achieve stable forward locomotion on 3 legs in simulation.
 
 <!-- Add your simulation video here -->
-> 📹 Simulation video: *[link to video]*  
-> 📊 Project presentation: *[link to slides]*
+> 📹 Simulation video: *[https://drive.google.com/file/d/1Ur2WJkW03JYJ-OpbQWDBMooFYPt-tQYE/view?usp=sharing]*  
+> 📊 Project presentation: *[https://canva.link/j1cvjju4vjfi8bi]*
 
 ---
 
